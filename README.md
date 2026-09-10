@@ -16,7 +16,7 @@ Basit anahtar kelime eşleştirmesi yerine **vektörel anlamsal benzerlik (Seman
 
 ---
 
-## 🛠️ Mimari ve Kullanılan Teknolojiler
+##  Mimari ve Kullanılan Teknolojiler
 
 * **Veri Seti:** Hugging Face `truehealth/medicationqa` (Kapsamlı medikal soru-cevap veri seti).
 * **NLP & Embedding Modeli:** `sentence-transformers/all-MiniLM-L6-v2` (Hızlı, hafif ve güçlü anlamsal vektör üretici).
