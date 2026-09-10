@@ -32,7 +32,7 @@ Basit anahtar kelime eşleştirmesi yerine **vektörel anlamsal benzerlik (Seman
 2. **Vektörel Temsil (Vector Embeddings):** Veri tabanındaki tüm sorular Sentence-BERT modeli ile yoğun vektör uzayına aktarılır.
 3. **Anlamsal Eşleme:** Kullanıcıdan gelen soru anlık olarak vektöre dönüştürülür ve Cosine Similarity ile veri setindeki en yakın anlamlı soru tespit edilir.
 4. **Çıktı & Sunum:** En yüksek skora sahip sorunun yanıtı Gradio arayüzü üzerinden kullanıcıya iletilir.
-
+![Uygulama Ekran Görüntüsü](image.png)
 ---
 
 ##kurulum ve Çalıştırma
