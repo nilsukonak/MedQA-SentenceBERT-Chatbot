@@ -1,6 +1,6 @@
-# 💊 MedQA-Bot: Sentence-BERT Tabanlı İlaç Soru-Cevap Chatbotu
+#  MedQA-Bot:SentenceBERT Tabanlı İlaç Soru-Cevap Chatbotu
 
-Doğal Dil İşleme (NLP) ve Anlamsal Arama (Semantic Search) teknikleri kullanılarak geliştirilmiş, medikal ve ilaç odaklı akıllı soru-cevap asistanı.
+Doğal Dil İşleme (NLP) ve Anlamsal Arama (Semantic Search) teknikleri kullanılarak geliştirilmiş  akıllı soru-cevap asistanı.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 [![Built with Gradio](https://img.shields.io/badge/UI-Gradio-orange)](https://gradio.app/)
@@ -8,9 +8,9 @@ Doğal Dil İşleme (NLP) ve Anlamsal Arama (Semantic Search) teknikleri kullan�
 
 ---
 
-## 📌 Proje Özeti
+## Proje Özeti
 
-Kullanıcıların ilaç kullanımı, yan etkiler, dozaj ve etkileşimler hakkındaki doğal dilde sorduğu soruları anlamsal olarak analiz eder ve medikal veri tabanından en doğru yanıtı eşleştirerek kullanıcıya sunar. 
+Kullanıcıların ilaç kullanımı, yan etkiler ,etkileşimler hakkındaki doğal dilde sorduğu soruları anlamsal olarak analiz eder ve medikal veri tabanından en doğru yanıtı eşleştirerek kullanıcıya sunar. 
 
 Basit anahtar kelime eşleştirmesi yerine **vektörel anlamsal benzerlik (Semantic Similarity)** kullandığı için eş anlamlı kelimeleri ve farklı cümle kalıplarını başarıyla kavrar.
 
@@ -26,7 +26,7 @@ Basit anahtar kelime eşleştirmesi yerine **vektörel anlamsal benzerlik (Seman
 
 ---
 
-## ⚙️ Nasıl Çalışır?
+## Nasıl Çalışır?
 
 1. **Veri Ön İşleme:** Ham medikal veriler temizlenir, eksik değerler filtrelenir ve soru-cevap çiftleri yapılandırılır.
 2. **Vektörel Temsil (Vector Embeddings):** Veri tabanındaki tüm sorular Sentence-BERT modeli ile yoğun vektör uzayına aktarılır.
@@ -35,7 +35,7 @@ Basit anahtar kelime eşleştirmesi yerine **vektörel anlamsal benzerlik (Seman
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+##kurulum ve Çalıştırma
 
 Projeyi yerel ortamınızda veya Google Colab üzerinde çalıştırmak için:
 
